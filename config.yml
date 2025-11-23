@@ -1,0 +1,225 @@
+socialLinks:
+  - name: DISCORD
+    username: xxivn
+    icon: FaDiscord
+    url: https://discord.com/users/xxivn
+  - name: DISCORD SERVER
+    username: Click here!
+    icon: FaDiscord
+    url: https://discord.gg/SQtg286DUU
+  - name: TWITCH
+    username: imxivn
+    icon: FaTwitch
+    url: https://twitch.tv/imxivn
+  - name: INSTAGRAM
+    username: hixivn
+    icon: FaInstagram
+    url: https://instagram.com/hixivn
+
+services:
+  - icon: 🎨
+    title: Custom Items
+    description: Custom Minecraft items for unique server experiences.
+    longDescription: >
+      Our resource pack development service offers tailored solutions for Minecraft servers
+      looking to create unique and immersive experiences. We specialize in creating high-quality
+      textures, custom models, and animations that bring your server's vision to life. Whether
+      you're looking to create a medieval fantasy world or a futuristic sci-fi environment,
+      our team of experienced artists and developers can make it happen.
+    images:
+      - https://i.imgur.com/Btdh0Sa.mp4
+      - /images/resource-pack-2.jpg
+      - /images/resource-pack-3.jpg
+      - /images/resource-pack-4.jpg
+
+  - icon: 🔧
+    title: Plugin Configurations
+    description: Minecraft plugin configuration to enhance server functionality and player experience.
+    longDescription: >
+      Our plugin development service focuses on creating bespoke solutions to enhance your
+      Minecraft server's functionality and player experience. From simple quality-of-life
+      improvements to complex game mechanics, our team of skilled developers can bring your
+      ideas to life. We work with popular platforms like Spigot, Paper, and Fabric to ensure
+      compatibility and optimal performance.
+    images:
+      - /images/plugin-dev-1.jpg
+      - /images/plugin-dev-2.jpg
+      - /images/plugin-dev-3.jpg
+      - /images/plugin-dev-4.jpg
+
+  - icon: ☑
+    title: Server Setup or Management
+    description: Minecraft server setup and / or existing server managment.
+    longDescription: >
+      Our resource pack development service offers tailored solutions for Minecraft servers
+      looking to create unique and immersive experiences. We specialize in creating high-quality
+      textures, custom models, and animations that bring your server's vision to life. Whether
+      you're looking to create a medieval fantasy world or a futuristic sci-fi environment,
+      our team of experienced artists and developers can make it happen.
+    images:
+      - /images/resource-pack-1.jpg
+      - /images/resource-pack-2.jpg
+      - /images/resource-pack-3.jpg
+      - /images/resource-pack-4.jpg
+
+clients:
+  - name: 
+    logo: https://i.imgur.com/H3Iqhyw.png
+    link: https://store.acemc.co/
+  - name: 
+    logo: https://i.imgur.com/NsvnyvF.png
+    link: https://store.haycube.net/
+  - name:
+    logo: https://i.imgur.com/h7srW6h.png
+    link: https://store.boldsmp.com/
+  - name:
+    logo: https://i.imgur.com/FsoWiyh.png
+    link: https://store.terraemc.net/
+  - name: 
+    logo: https://i.imgur.com/6xZFn6M.png
+    link: https://store.cozycraft.gg/
+  - name: 
+    logo: https://i.imgur.com/nVIH8gP.png
+    link: https://thecrownmc.com/
+  - name: 
+    logo: https://i.imgur.com/KrFr0rK.png
+    link: https://store.edenmc.net/
+    
+
+
+pastProjects:
+  - name: Battle Pass
+    description: Configuration and Setup of Quests and rewards for a Battle Pass.
+    image: https://i.imgur.com/GqhU88O.png
+    longDescription: >
+      Configuration and Setup of Quests and rewards for a Battle Pass.
+    gallery:
+      - https://i.imgur.com/qFmcbT0.png
+      - https://i.imgur.com/qFmcbT0.png
+      
+
+  - name: Lightsabers
+    description: Various custom Lightsabers.
+    image: https://i.imgur.com/tN2RkCC.png
+    longDescription: >
+      Different types of Lightsabers all with there own unique abilities and benefits.
+    gallery:
+      - https://i.imgur.com/ydkU4W1.png
+      - https://i.imgur.com/SE9dlTv.png
+
+
+  - name: Smelting Pickaxe
+    description: Pickaxe with an RNG chance to auto-smelt the ores you mine.
+    image: https://i.imgur.com/TuJKIig.png
+    longDescription: >
+      Pickaxe with an RNG chance to auto-smelt the ores you mine.
+    gallery:
+      - https://i.imgur.com/qFmcbT0.png
+      - https://i.imgur.com/qFmcbT0.png
+    
+
+  - name: Healers Armor
+    description: Custom Armor with the ability to heal yourself and Zombie Villagers.
+    image: https://i.imgur.com/hUme0ZP.png
+    longDescription: >
+      While equipped with the full set of this armor, you gain a small chance to be fully healed
+      when taking damge. Additionally you can instantly heal Zombie Villagers when Shift+Right-
+      Clicking them.
+    gallery:
+      - https://i.imgur.com/qFmcbT0.png
+      - https://i.imgur.com/qFmcbT0.png
+
+
+  - name: Tracking Rod
+    description: This Fishing Rod tracks both time and usage within time.
+    image: https://i.imgur.com/sHXXGwi.png
+    longDescription: >
+      When fishing with this rod your streak goes up by 1, the higher the streak
+      the better your rewards. If you stop fishing for 30 seconds your rewards
+      go back to normal and your streak resets.
+    gallery:
+      - https://i.imgur.com/qFmcbT0.png
+      - https://i.imgur.com/qFmcbT0.png
+
+
+  - name: Biome Wand
+    description: The Biome Wand allows you to swap between all vanilla biomes, then apply that to your current chunk.
+    image: https://i.imgur.com/oyAT8gk.png
+    longDescription: >
+      When holding this item, using Shift+Right Click allows you to cycle through all vanilla biomes
+      then Right Click any block to change the chunk to that biome.
+    gallery:
+      - https://i.imgur.com/qFmcbT0.png
+      - https://i.imgur.com/qFmcbT0.png
+
+
+  - name: Soul Stealer
+    description: This sword allows you to >Steal your Enemies Soul< and store it within the sword before launching a powerful projectile.
+    image: https://i.imgur.com/TaJHxkm.png
+    longDescription: >
+      When killing an enemy with this sword, it stores their soul within the sword
+      after holding 50+ souls you can use Right Click to launch a powerful projectile.
+    gallery:
+      - https://i.imgur.com/qFmcbT0.png
+      - https://i.imgur.com/qFmcbT0.png      
+
+
+  - name: Infinite / Swappable Blocks
+    description: Creating both infinite blocks, and blocks that can be swapped between each other.
+    image: https://i.imgur.com/cQIC49y.png
+    longDescription: >
+      Using a wide array of different items allowing you to swap between blocks, make blocks infinite.
+    gallery:
+      - https://i.imgur.com/qFmcbT0.png
+      - https://i.imgur.com/qFmcbT0.png
+
+
+  - name: Reloadable Blocks
+    description: Making blocks reloadable, with the same block or a different item entirely.
+    image: https://i.imgur.com/owNSVYf.png
+    longDescription: >
+      Making blocks reloadable, with the same block or a different item entirely.
+    gallery:
+      - https://i.imgur.com/qFmcbT0.png
+      - https://i.imgur.com/qFmcbT0.png
+
+
+  - name: Pandoras Armor
+    description: The vault of pandora unlocks magical power..
+    image: https://i.imgur.com/bAh7YqM.png
+    longDescription: >
+      This armor allows you to do extra damage when less than half health, and even more damage when less than 2 hearts.
+      additionally you take 5% less damage from undead mobs. 
+    gallery:
+      - https://i.imgur.com/qFmcbT0.png
+      - https://i.imgur.com/qFmcbT0.png
+
+
+  - name: Terralith Biome Wand
+    description: This item allows you to swap between all Terralith Biomes.
+    image: https://i.imgur.com/j7jNTxb.png
+    longDescription: >
+      This item allows you to swap between all Terralith Biomes.
+    gallery:
+      - https://i.imgur.com/qFmcbT0.png
+      - https://i.imgur.com/qFmcbT0.png
+
+  - name: Jester Mace
+    description: A new Mace item that allows you to break glass instantly and scare mobs.
+    image: https://i.imgur.com/0QUgJTD.png
+    longDescription: >
+      This item allows you to instantly break glass, silk touching it along with when killing a mob this mace will scare away all nearby mobs + slow them down!
+    gallery:
+      - https://i.imgur.com/qFmcbT0.png
+      - https://i.imgur.com/qFmcbT0.png
+
+
+  - name: Jester Cloak
+    description: A unique armor set with various different effects!
+    image: https://i.imgur.com/gfEdqql.png
+    longDescription: >
+      When wearing atleast 2 pieces of this armor you get various effects, when wearing the full set you have a chance to summon a hoard of bats when taking damage!
+    gallery:
+      - https://i.imgur.com/qFmcbT0.png
+      - https://i.imgur.com/qFmcbT0.png
+# ... other configuration sections
