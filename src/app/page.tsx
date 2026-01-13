@@ -508,7 +508,7 @@ export default function Home() {
           {/* Add this new div for the attribution */}
           <div className="text-center text-gray-400 text-sm mt-4">
             <AnimatedLink href="https://square.link/u/LmXVXEOd">Donations!</AnimatedLink>
-            <p>&copy; 2025 Xivn LLC. All rights reserved.</p>
+            <p>&copy; 2024 Xivn LLC. All rights reserved.</p>
           </div>
         </motion.div>
       </motion.div>
