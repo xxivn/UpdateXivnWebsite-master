@@ -279,10 +279,12 @@ export default function Home() {
                       About Me
                     </h2>
                     <p className="mb-6 sm:mb-8 text-gray-400 text-sm sm:text-base">
-                      Hi, I'm Xivn, and I specialize in Minecraft development, focusing on custom item creation, plugin configuration, 
-                      and server management. I enjoy crafting unique experiences for players and am currently learning Java and Python 
-                      to broaden my skill set and explore new projects. If you're looking for help with your Minecraft server or have 
-                      a project in mind, feel free to reach out—I'd be happy to discuss how we can collaborate.
+                      Hi, I’m Xivn, a Minecraft developer with a focus on custom items, plugin development, server configuration, 
+                      and overall server management. I enjoy building systems that make servers feel unique and fun to play on. 
+
+                      I’m a California native now living in Florida, happily married, and always excited to collaborate with new people.
+                      I now offer plugin development and additional services through my Discord, so if you’re working on a server or 
+                      have an idea you’d like to bring to life, feel free to reach out. I’d love to chat and see what we can build together.
                     </p>
 
                     <h3 className="text-xl sm:text-2xl font-bold mb-3 sm:mb-4 text-gray-200">
